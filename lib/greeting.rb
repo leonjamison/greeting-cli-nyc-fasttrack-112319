@@ -1,10 +1,4 @@
-# code the #greeting method here
-name = "Leon"
-
+name = "Sally"
 def greeting(name)
-  puts "Hello #{name}!"
-  else
-    puts "Hello Stranger!"
-  end
+  puts "Hello #{name}. It's nice to meet you."
 end
-  
